@@ -1,0 +1,112 @@
+%implements s0_b0_zjxph_TLCInterface "C"
+
+%function getOutputAddr_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_0_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getInputAddr_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getInput_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getDWorkAddr_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtDW.im4uxliebk"
+%endfunction
+
+%function getDWork_0_1_0_0_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtDW.im4uxliebk"
+%endfunction
+
+%function getOutputAddr_0_0_0_0_2_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_0_2_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getOutputAddr_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_1_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getOutputAddr_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_2_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getInputAddr_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getInput_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getDWorkAddr_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtDW.im4uxliebk"
+%endfunction
+
+%function getDWork_0_1_0_2_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtDW.im4uxliebk"
+%endfunction
+
+%function getOutputAddr_0_0_0_3_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_3_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getOutputAddr_0_0_0_4_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_4_0_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
+%function getOutputAddr_0_0_0_4_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "&rtB.ic1jwuteik"
+%endfunction
+
+%function getOutput_0_0_0_4_1_0_0(opaqueBlock, block, lcv, ucv, sigIdx, reim) void
+
+%return "rtB.ic1jwuteik"
+%endfunction
+
